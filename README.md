@@ -3,7 +3,11 @@
 Welcome to my data analysis portfolio! This project dives into student performance data, providing valuable insights into the factors that influence academic success. Here's an overview of the process, analysis, and insights.
 
 ---
+## 📈 Interactive Dashboard  
+Explore the insights through my interactive Tableau Public dashboard. Click the image below to view it:  
 
+[![Tableau Dashboard](./dashboard.png)](https://public.tableau.com/views/Student_Dashboard_17378222920480/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+---
 ## 📥 Data Overview
 
 The dataset, sourced from Kaggle, contains information about various factors that could impact a student's academic performance. The data is in CSV format and includes the following key columns:
