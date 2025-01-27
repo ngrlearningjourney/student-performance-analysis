@@ -10,7 +10,7 @@ Explore the insights through my interactive Tableau Public dashboard. Click the 
 ---
 ## 📥 Data Overview
 
-The dataset, sourced from Kaggle, contains information about various factors that could impact a student's academic performance. The data is in CSV format and includes the following key columns:
+The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors), contains information about various factors that could impact a student's academic performance. The data is in CSV format and includes the following key columns:
 
 | **Feature**                 | **Description**                                                                           |
 |-----------------------------|-------------------------------------------------------------------------------------------|
