@@ -2,6 +2,8 @@
 
 Welcome to my data analysis portfolio! This project dives into student performance data, providing valuable insights into the factors that influence academic success. Here's an overview of the process, analysis, and insights.
 
+For a detailed analysis, process, and insight, you can view the notebook here: [Student Performance Analysis📄](https://github.com/ngrlearningjourney/student-performance-analysis/blob/main/student_performance_analysis.ipynb)
+
 ---
 ## 📈 Interactive Dashboard  
 Explore the insights through my interactive Tableau Public dashboard. Click the image below to view it:  
